@@ -9,4 +9,6 @@ A Tetris clone written from scratch with Pygame and Numpy. The entire game is a 
 - Numpy
 
 To run the game on your local machine, simply download the tetris.py file and run it.
-$ python3 tetris.py
+```bash
+python3 tetris.py
+```
