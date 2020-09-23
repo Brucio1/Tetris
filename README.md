@@ -7,7 +7,7 @@ A Tetris clone written from scratch with Pygame and Numpy. The entire game is a 
 &#8594; - turn right
 &#8593; - rotate
 &#8595; - move the piece down
-&leftarrow;
+<kbd>&leftarrow;</kbd>
 
 # Installation
 - Python 3.6 or below
