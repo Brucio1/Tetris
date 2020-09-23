@@ -3,11 +3,10 @@ A Tetris clone written from scratch with Pygame and Numpy. The entire game is a 
 
 ![](tetris_demo.gif)
 
-<kbd>&#8592;</kbd> - turn left
-&#8594; - turn right
-&#8593; - rotate
-&#8595; - move the piece down
-<kbd>&leftarrow;</kbd>
+<kbd>&#8592;</kbd> - turn left  
+<kbd>&#8594;</kbd> - turn right  
+<kbd>&#8593;</kbd> - rotate  
+<kbd>&#8595;</kbd> - move the piece down  
 
 # Installation
 - Python 3.6 or below
