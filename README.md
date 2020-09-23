@@ -9,11 +9,11 @@ A Tetris clone written from scratch with Pygame and Numpy. The entire game is a 
 <kbd>&#8595;</kbd> - move the piece down  
 
 # Installation
-- Python 3.6 or below
+- Python 3.X
 - Pygame
 - Numpy
 
-To run the game on your local machine, simply download the tetris.py file run the program.
+To run the game on your local machine, simply download the tetris.py file and run the program.
 ```bash
 python3 tetris.py
 ```
