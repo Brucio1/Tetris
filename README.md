@@ -1,7 +1,7 @@
 # Tetris
 A Tetris clone written from scratch with Pygame and Numpy. The entire game is a one big matrix manipulation!
 
-
+![](tetris_demo.gif)
 
 <kbd>&#8592;</kbd> - turn left  
 <kbd>&#8594;</kbd> - turn right  
